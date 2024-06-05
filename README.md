@@ -1,4 +1,4 @@
-## Coding Challenge: Reconstructing Adjacency Matrices 
+## Reconstructing Adjacency Matrices 
 
 
 
@@ -10,19 +10,20 @@ Each entry contains information about a city and the adjacency of points A-J in 
 
 
 
-### Challenge:
+### Info:
 
-- Reading the dataset from a CSV file containing the database entries.
-- Reconstructing the adjacency matrices based on the provided data.
-- Adding labels for the points, let them be called A-J.
-- Visualizing the reconstructed matrices in a command-line interface (CLI) print format.
+- The dataset (CSV file) contains the database entries.
+- The adjacency matrices will be based on the provided data.
+- Labels for the adjacency points are called A-J.
+- The reconstructed matrices are visualized in a print format.
+- Check out the Jupyter Notebook to execute all cells and then accordingly!
 
 
 
-### Bonus Task:
+### Bonus:
 
-Proposing an alternative encoding of the data that might be suitable for this scenario and justify your choice.
-Discussing how your proposed encoding could enhance the overall solution and its implementation.
+- Proposing an alternative encoding of the data that might be suitable for this scenario (TBC).
+- Discussing how the encoding could enhance the overall solution and its implementation (TBC).
 
 
 
