@@ -12,10 +12,10 @@ Each entry contains information about a city and the adjacency of points A-J in 
 
 ### Challenge:
 
---Reading the dataset from a CSV file containing the database entries.
---Reconstructing the adjacency matrices based on the provided data.
---Adding labels for the points, let them be called A-J.
---Visualizing the reconstructed matrices in a command-line interface (CLI) print format.
+- Reading the dataset from a CSV file containing the database entries.
+- Reconstructing the adjacency matrices based on the provided data.
+- Adding labels for the points, let them be called A-J.
+- Visualizing the reconstructed matrices in a command-line interface (CLI) print format.
 
 
 
@@ -28,7 +28,7 @@ Discussing how your proposed encoding could enhance the overall solution and its
 
 ### Dataset Information:
 
---Index: The index of the entry.
---City Name: The name of each city in the dataset.
---Binary Connections: Binary values indicating the adjacency relationships between cities. A value of 1 represents adjacency, and 0 represents no adjacency. The connections arn non-directional.
+- Index: The index of the entry.
+- City Name: The name of each city in the dataset.
+- Binary Connections: Binary values indicating the adjacency relationships between cities. A value of 1 represents adjacency, and 0 represents no adjacency. The connections arn non-directional.
 
